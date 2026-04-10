@@ -1,3 +1,3 @@
 # branch-protection-test
 
-test
+test2
